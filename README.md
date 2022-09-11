@@ -17,6 +17,8 @@ Below are a number of commonly used regex components, with their definitions and
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
+- [Author](#author)
+- [References](#references)
 
 
 <br>
@@ -130,6 +132,16 @@ Backlash <strong>( \ )</strong> in a regex escapes a character that otherwise wo
 
 <br>
 
+
+### References
+
+- [Coding bootcamp](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
+
+
+<br> 
+
 ## Author
 
 [Sara-Monintja](https://github.com/Sara-Monintja)
@@ -137,3 +149,4 @@ Backlash <strong>( \ )</strong> in a regex escapes a character that otherwise wo
 A barista turned full-stack developer obsessed with donut and obviously, coffee ☕️
 
 Click on the donut for more [🍩](https://github.com/Sara-Monintja) 
+
